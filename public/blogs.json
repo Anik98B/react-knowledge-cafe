@@ -2,7 +2,7 @@
     {
         "id": "1",
         "cover": "https://i.postimg.cc/bwc00GL0/1.jpg",
-        "title": "The Mysterious Adventure",
+        "title": "Top 10 ES6 Features You Must Know",
         "author": "Jane Doe",
         "author_img": "https://i.postimg.cc/d15PrcYd/boy1.png",
         "posted_date": "2024-03-12",
@@ -15,7 +15,7 @@
     {
         "id": "2",
         "cover": "https://i.postimg.cc/GhQYDM8R/2.png",
-        "title": "Exploring the Unknown",
+        "title": "JavaScript Objects For Absolute Beginners: A Fun Introduction",
         "author": "John Smith",
         "author_img": "https://i.postimg.cc/xCxhqGv3/boy2.jpg",
         "posted_date": "2024-03-11",
@@ -28,7 +28,7 @@
     {
         "id": "3",
         "cover": "https://i.postimg.cc/9MdzhMy2/3.png",
-        "title": "Infinite Horizons",
+        "title": "Component Lifecycle in React--Class Component vs Functional Component",
         "author": "Alice Johnson",
         "author_img": "https://i.postimg.cc/cC3pjg37/girl1.jpg",
         "posted_date": "2024-03-10",
@@ -41,7 +41,7 @@
     {
         "id": "4",
         "cover": "https://i.postimg.cc/KYnmKWjr/4.jpg",
-        "title": "The Secret Garden",
+        "title": "Free Image And Resources Collection for Website",
         "author": "Michael Brown",
         "author_img": "https://i.postimg.cc/8CCqGnWz/girl2.jpg",
         "posted_date": "2024-03-09",
