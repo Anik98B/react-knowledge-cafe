@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.postimg.cc/bwc00GL0/1.jpg",
+        "title": "The Mysterious Adventure",
+        "author": "Jane Doe",
+        "author_img": "https://i.postimg.cc/d15PrcYd/boy1.png",
+        "posted_date": "2024-03-12",
+        "reading_time": 30,
+        "hashtag": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.postimg.cc/GhQYDM8R/2.png",
+        "title": "Exploring the Unknown",
+        "author": "John Smith",
+        "author_img": "https://i.postimg.cc/xCxhqGv3/boy2.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 45,
+        "hashtag":[
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.postimg.cc/9MdzhMy2/3.png",
+        "title": "Infinite Horizons",
+        "author": "Alice Johnson",
+        "author_img": "https://i.postimg.cc/cC3pjg37/girl1.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 60,
+        "hashtag":[
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.postimg.cc/KYnmKWjr/4.jpg",
+        "title": "The Secret Garden",
+        "author": "Michael Brown",
+        "author_img": "https://i.postimg.cc/8CCqGnWz/girl2.jpg",
+        "posted_date": "2024-03-09",
+        "reading_time": 25,
+        "hashtag": [
+            "beginners",
+            "programming"
+        ]
+    }
+]
